@@ -58,7 +58,6 @@ Les résultats sont ensuite comparés à travers :
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Auteurs](#auteurs)
-- [Avertissement](#avertissement)
 
 ---
 
