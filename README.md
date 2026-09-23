@@ -1,5 +1,11 @@
 # Modélisation actuarielle de la charge agrégée de sinistres
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/sinistres.png"
+       alt="Modélisation actuarielle de la charge agrégée de sinistres"
+       width="100%">
+</p>
+
 ![R](https://img.shields.io/badge/R-Modélisation%20actuarielle-276DC3?logo=r&logoColor=white)
 ![Actuariat](https://img.shields.io/badge/Actuariat-Risque%20agrégé-1F4E79)
 ![Monte Carlo](https://img.shields.io/badge/Simulation-Monte--Carlo-7A3E9D)
